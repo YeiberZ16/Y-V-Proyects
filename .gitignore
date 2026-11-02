@@ -1,0 +1,19 @@
+# Archivos compilados de Java
+*.class
+
+# Salidas de compilación / IDE
+*.jar
+*.war
+out/
+bin/
+target/
+build/
+.idea/
+*.iml
+.settings/
+.classpath
+.project
+
+# Sistema
+Thumbs.db
+.DS_Store
